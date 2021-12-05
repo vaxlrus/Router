@@ -12,4 +12,5 @@
 6. Подключить **namespace** в автозагрузку
 
 ## Использование
-1. Создать экземпляр класса `new Router(path/to/RouterConfig.php);`
+1. Выполнить команду `composer require nikic/fast-route` или установить компонент `nikic/fast-router` другим способом
+2. Создать экземпляр класса `new Router(path/to/RouterConfig.php);`
